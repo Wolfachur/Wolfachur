@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Wolfachur
+- 👀 I’m interested in playing games and coding.
+- 🌱 I’m currently learning javascript, etc
